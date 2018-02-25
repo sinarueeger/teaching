@@ -1,10 +1,15 @@
 # Missing data
 
+## Knowledge of the learner
+People without necessarily any background in data or working with data.
+
+
 ## Aim
 - Inform about the existence of missing data
 - Show the various forms missing data can take
 - Why missing data can be a problem for analysis of data
 - How missing data can be tackled
+
 
 ## Topics
 - Problem of missing data
@@ -29,6 +34,9 @@
 - 
 -
 -
+
+## UN DATA!!!
+
 
 
 

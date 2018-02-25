@@ -1,5 +1,11 @@
 # Visualising data
 
+## Choice of topic
+Long interest in visualising data, as I believe that visual summary of data is a very effective way of communicating aspects of the data.
+
+## Knowledge of the learner
+People without necessarily any background in data or working with data.
+
 ## Aim
 - Learn about best practices in visualising data
 - What tools are good for what data
@@ -25,12 +31,9 @@
 8. some practical aspects: advantages of saving as a pdf or a png (manipulation) + tools to use (reproducibility)
 
 
-## Validation of User Learning
-- let them choose between graphs
+## Quizzes
+- let them choose between graphs: Ask the learner to pick the visualisation that represents the data the best and explain why. 
 - Make a graph on 
-- why are 3d graphs not good
+- why are 3d graphs bad
 
-
-
-3. The power of visualising data (#5)
-Take a data set and create two data visualisations (one better than the other). Ask the learner to pick the visualisation that represents the data the best and explain why. 
+## References
