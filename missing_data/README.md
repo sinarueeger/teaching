@@ -12,7 +12,7 @@ Discover different facets of missing data.
 ## Topics
 - Show different reason for the existence of missing data
 - Explain, why missing data can be a problem for analysis of data
-- Solution to tackle missing data
+- Solutions to tackle missing data
 
 ## Material
 
