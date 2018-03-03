@@ -1,7 +1,7 @@
 # Missing data
 
 ## Why I choose this topic
-As a data analyst, I am confronted with missing data on a daily basis. In my opinion, this is an underestimated topic in data education, resulting for example in poorly documented missing data. 
+As a data analyst, I am confronted with missing data on a daily basis. In my opinion, this is an underestimated topic in data education, resulting for example to poorly documented (incomplete) data. 
 
 ## Knowledge of the learner
 People being exposed to data products (such as visualisations or tables), but without any background in data or working with data.

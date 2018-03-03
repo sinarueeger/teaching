@@ -1,6 +1,6 @@
 # Teaching
 
-This repository contains two mini lectures (7-10 min) for the following topics:
-- [**visualising data**](https://github.com/sinarueeger/teaching/blob/master/visualising_data)
-- [**missing data**](https://github.com/sinarueeger/teaching/blob/master/missing_data)
+This repository contains two mini lectures (7-10 min) on the following topics:
+- [**Visualising data**](https://github.com/sinarueeger/teaching/blob/master/visualising_data)
+- [**Missing data**](https://github.com/sinarueeger/teaching/blob/master/missing_data)
 
