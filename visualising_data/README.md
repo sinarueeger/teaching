@@ -19,3 +19,4 @@ Being able to spot good data visualisations.
 - [Video](https://youtu.be/rx6GsPny_Zo)
 - [Slides](https://github.com/sinarueeger/teaching/blob/master/visualising_data/slides_visualising_data.pdf)
 - [Quizzes](https://github.com/sinarueeger/teaching/blob/master/visualising_data/quizzes_visualising_data.pdf)
+- [Solution to quizzes](https://github.com/sinarueeger/teaching/blob/master/visualising_data/quizzes_solutions_visualising_data.pdf)
