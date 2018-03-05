@@ -17,7 +17,6 @@ Discover different facets of missing data.
 ## Material
 
 - [Video](https://youtu.be/5yrVZk97LEQ)
-- [*mov file]()
 - [Slides](https://github.com/sinarueeger/teaching/blob/master/missing_data/slides_missing_data.pdf)
 - [Quizzes](https://github.com/sinarueeger/teaching/blob/master/missing_data/quizzes_missing_data.pdf)
 - [Solution to quizzes](https://github.com/sinarueeger/teaching/blob/master/missing_data/quizzes_solutions_missing_data.pdf)
